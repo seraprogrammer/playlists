@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master Git & GitHub | Part 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master Git & GitHub | Part 1 by Sheryians Coding School 55,087 views 10 months ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Oq6nxXD-MZc",
+        "thumbnail": "https://i.ytimg.com/vi/Oq6nxXD-MZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGx94aRSHWCrdUTOEHXD7dwqGkfQ"
+    },
+    {
+        "id": 2,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master Git & GitHub | Part 2 | Fundamentals"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master Git & GitHub | Part 2 | Fundamentals by Sheryians Coding School 28,202 views 10 months ago 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ylVQ_lBaqvY",
+        "thumbnail": "https://i.ytimg.com/vi/ylVQ_lBaqvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaUjPfg7fDg19gJlEPA46mo5mxvQ"
+    },
+    {
+        "id": 3,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master Git & GitHub | Part 3 | Branching"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master Git & GitHub | Part 3 | Branching by Sheryians Coding School 21,940 views 10 months ago 48 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=tsoa9wdSKAk",
+        "thumbnail": "https://i.ytimg.com/vi/tsoa9wdSKAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmOwQQCkmQtAi_eBOn3TOyB9iqTw"
+    },
+    {
+        "id": 4,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master Git & GitHub | Part 4 | Collaboration"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master Git & GitHub | Part 4 | Collaboration by Sheryians Coding School 22,244 views 10 months ago 27 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=cn8l5bXhTBM",
+        "thumbnail": "https://i.ytimg.com/vi/cn8l5bXhTBM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVmRFeTMZBBeMezOUbdmqboOfd3Q"
+    },
+    {
+        "id": 5,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master Git & GitHub in One Video! 🚀 Level Up Your Skills Now!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master Git & GitHub in One Video! 🚀 Level Up Your Skills Now! by Sheryians Coding School 86,786 views 10 months ago 1 hour, 47 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=r8QQOAicu8Y",
+        "thumbnail": "https://i.ytimg.com/vi/r8QQOAicu8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD31moxRfFnA7UZHmgo0wiitBn2Qg"
+    }
+]
