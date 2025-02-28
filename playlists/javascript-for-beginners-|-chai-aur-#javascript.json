@@ -1,20 +1,869 @@
-{
-  "name": "Javascript for beginners | chai aur #javascript",
-  "description": "",
-  "videos": [
+[
     {
-      "url": "https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=1",
-      "title": "Video 1"
+        "id": 1,
+        "title": {
+            "runs": [
+                {
+                    "text": "Javascript for beginners | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Javascript for beginners | chai aur #javascript by Chai aur Code 1,358,859 views 2 years ago 5 minutes, 5 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Hr5iLG7sUa0",
+        "thumbnail": "https://i.ytimg.com/vi/Hr5iLG7sUa0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBze4aFF_VvRDRl0QfV1D4M4_M2ng"
     },
     {
-      "url": "https://www.youtube.com/watch?v=cvoLc3deAdQ&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=2",
-      "title": "Video 2"
+        "id": 2,
+        "title": {
+            "runs": [
+                {
+                    "text": "Setting up environment in local machine for Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Setting up environment in local machine for Javascript | chai aur #javascript by Chai aur Code 473,267 views 2 years ago 11 minutes, 50 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=cvoLc3deAdQ",
+        "thumbnail": "https://i.ytimg.com/vi/cvoLc3deAdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvZGY-5X-X5k_iXCHnKvDA8Ikc-g"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-GoKoR6aLcY&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=4",
-      "title": "Video 3"
+        "id": 3,
+        "title": {
+            "runs": [
+                {
+                    "text": "Save and work on Github for Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Save and work on Github for Javascript | chai aur #javascript by Chai aur Code 419,146 views 2 years ago 10 minutes, 22 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-GoKoR6aLcY",
+        "thumbnail": "https://i.ytimg.com/vi/-GoKoR6aLcY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXCtf7Ty8ubdlxCeNS-dwly3yIDg"
+    },
+    {
+        "id": 4,
+        "title": {
+            "runs": [
+                {
+                    "text": "Let, const and var ki kahani | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Let, const and var ki kahani | chai aur #javascript by Chai aur Code 462,778 views 2 years ago 16 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=yY0bKZNYmJs",
+        "thumbnail": "https://i.ytimg.com/vi/yY0bKZNYmJs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyURF43vxk2riEmz1LI1NLm9etMQ"
+    },
+    {
+        "id": 5,
+        "title": {
+            "runs": [
+                {
+                    "text": "Datatypes and ECMA standards | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Datatypes and ECMA standards | chai aur #javascript by Chai aur Code 380,180 views 2 years ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-9knnv97wSc",
+        "thumbnail": "https://i.ytimg.com/vi/-9knnv97wSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQGvrwqmfw9-yf4EbZ7zdRYZ4BMQ"
+    },
+    {
+        "id": 6,
+        "title": {
+            "runs": [
+                {
+                    "text": "Datatype conversion confusion | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Datatype conversion confusion | chai aur #javascript by Chai aur Code 328,883 views 2 years ago 12 minutes, 51 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=X7hDBhd_L5U",
+        "thumbnail": "https://i.ytimg.com/vi/X7hDBhd_L5U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_6r-xxWvmkocxVd-91wEZgRSlLg"
+    },
+    {
+        "id": 7,
+        "title": {
+            "runs": [
+                {
+                    "text": "Why string to number conversion is confusing | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Why string to number conversion is confusing | chai aur #javascript by Chai aur Code 277,359 views 2 years ago 15 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=N9el4APFtAo",
+        "thumbnail": "https://i.ytimg.com/vi/N9el4APFtAo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaGB-DrEW84IBF9Jmx976wIXlx1g"
+    },
+    {
+        "id": 8,
+        "title": {
+            "runs": [
+                {
+                    "text": "Comparison of datatypes in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Comparison of datatypes in javascript | chai aur #javascript by Chai aur Code 230,587 views 2 years ago 8 minutes, 53 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=giP2uXMlv4c",
+        "thumbnail": "https://i.ytimg.com/vi/giP2uXMlv4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIQorMMnKOhQ8c_jH7_OwpGTk2qg"
+    },
+    {
+        "id": 9,
+        "title": {
+            "runs": [
+                {
+                    "text": "Data types of javascript summary | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Data types of javascript summary | chai aur #javascript by Chai aur Code 262,499 views 2 years ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=suMvZWjjKbo",
+        "thumbnail": "https://i.ytimg.com/vi/suMvZWjjKbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4lRkAjCr-Y0654Aj7amndFDaGcw"
+    },
+    {
+        "id": 10,
+        "title": {
+            "runs": [
+                {
+                    "text": "Stack and Heap memory in javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Stack and Heap memory in javascript by Chai aur Code 279,824 views 2 years ago 9 minutes, 55 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=7gwc-1czolw",
+        "thumbnail": "https://i.ytimg.com/vi/7gwc-1czolw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3CU0m628NJB6Zdei52C-PjdgY3Q"
+    },
+    {
+        "id": 11,
+        "title": {
+            "runs": [
+                {
+                    "text": "Strings in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Strings in Javascript | chai aur #javascript by Chai aur Code 298,184 views 2 years ago 22 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=fozwNnFunlo",
+        "thumbnail": "https://i.ytimg.com/vi/fozwNnFunlo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ddNB7Wq0id1Pr8H05ZEqZU1QAQ"
+    },
+    {
+        "id": 12,
+        "title": {
+            "runs": [
+                {
+                    "text": "Number and Maths in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Number and Maths in Javascript | chai aur #javascript by Chai aur Code 254,356 views 2 years ago 23 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=_KqpeDc47Ro",
+        "thumbnail": "https://i.ytimg.com/vi/_KqpeDc47Ro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHKNpu70D0dy8ZwKuq2_x8dRNBVQ"
+    },
+    {
+        "id": 13,
+        "title": {
+            "runs": [
+                {
+                    "text": "Date and time in depth in javascript | chair aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Date and time in depth in javascript | chair aur #javascript by Chai aur Code 237,234 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=tGLCuoumaGY",
+        "thumbnail": "https://i.ytimg.com/vi/tGLCuoumaGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC33Tz6Nf9UOAxp9aoAufFNuhQtWw"
+    },
+    {
+        "id": 14,
+        "title": {
+            "runs": [
+                {
+                    "text": "Array in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Array in Javascript | chai aur #javascript by Chai aur Code 302,025 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=cejBux2gtEE",
+        "thumbnail": "https://i.ytimg.com/vi/cejBux2gtEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP-_Ds1aQBxT-7dZpLpuuv25ZDqQ"
+    },
+    {
+        "id": 15,
+        "title": {
+            "runs": [
+                {
+                    "text": "Array part 2 in Javascript Hindi | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Array part 2 in Javascript Hindi | chai aur #javascript by Chai aur Code 216,183 views 1 year ago 15 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=m6azhgyCi-k",
+        "thumbnail": "https://i.ytimg.com/vi/m6azhgyCi-k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRI1s_XO5H0kTKkEuUjUdKGnhtww"
+    },
+    {
+        "id": 16,
+        "title": {
+            "runs": [
+                {
+                    "text": "Objects in depth in javascript in hindi | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Objects in depth in javascript in hindi | chai aur #javascript by Chai aur Code 323,312 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=vVYOHmqQDCU",
+        "thumbnail": "https://i.ytimg.com/vi/vVYOHmqQDCU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDID_CjmBFrSLZzymphflqEttYxNA"
+    },
+    {
+        "id": 17,
+        "title": {
+            "runs": [
+                {
+                    "text": "Objects in Javascript part 2 in Hindi | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Objects in Javascript part 2 in Hindi | chai aur #javascript by Chai aur Code 235,673 views 1 year ago 17 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=4lb2pXWWXJI",
+        "thumbnail": "https://i.ytimg.com/vi/4lb2pXWWXJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXxCLhN1rTYhk2Br1DDQgloBqGlw"
+    },
+    {
+        "id": 18,
+        "title": {
+            "runs": [
+                {
+                    "text": "Object de-structure and JSON API intro | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Object de-structure and JSON API intro | chai aur #javascript by Chai aur Code 226,092 views 1 year ago 13 minutes, 33 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=AViTh83k-IE",
+        "thumbnail": "https://i.ytimg.com/vi/AViTh83k-IE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe7v9N2UXdGKOeC98jrSUhoW6H7w"
+    },
+    {
+        "id": 19,
+        "title": {
+            "runs": [
+                {
+                    "text": "Functions and parameter in javascript | Hindi"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Functions and parameter in javascript | Hindi by Chai aur Code 283,915 views 1 year ago 19 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Bn56WahG_t0",
+        "thumbnail": "https://i.ytimg.com/vi/Bn56WahG_t0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkTPWK2_Hqu8Aow2ozP8B54kKBfQ"
+    },
+    {
+        "id": 20,
+        "title": {
+            "runs": [
+                {
+                    "text": "Functions with objects and array in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Functions with objects and array in javascript | chai aur #javascript by Chai aur Code 198,866 views 1 year ago 11 minutes, 16 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=t7ZHPhgdA4U",
+        "thumbnail": "https://i.ytimg.com/vi/t7ZHPhgdA4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX1Vi6m1J0jHcVmHEIgvLWWBsUCA"
+    },
+    {
+        "id": 21,
+        "title": {
+            "runs": [
+                {
+                    "text": "Global and local scope in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Global and local scope in javascript | chai aur #javascript by Chai aur Code 172,915 views 1 year ago 9 minutes, 37 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=cHHU0jXfjKY",
+        "thumbnail": "https://i.ytimg.com/vi/cHHU0jXfjKY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvDFZiSkg_W-RwOMHJR7q-XNKbtQ"
+    },
+    {
+        "id": 22,
+        "title": {
+            "runs": [
+                {
+                    "text": "Scope level and mini hoisting in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Scope level and mini hoisting in javascript | chai aur #javascript by Chai aur Code 193,420 views 1 year ago 14 minutes, 57 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=eWwge2YpHhc",
+        "thumbnail": "https://i.ytimg.com/vi/eWwge2YpHhc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANgJ4Vq2Q73HEfwOJwaJcXqVf3XQ"
+    },
+    {
+        "id": 23,
+        "title": {
+            "runs": [
+                {
+                    "text": "THIS and arrow function in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "THIS and arrow function in javascript | chai aur #javascript by Chai aur Code 257,732 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9ksqBa8_txM",
+        "thumbnail": "https://i.ytimg.com/vi/9ksqBa8_txM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHaY1vqeNmWMF_OP5xQ5m6W5roYA"
+    },
+    {
+        "id": 24,
+        "title": {
+            "runs": [
+                {
+                    "text": "Immediately Invoked Function Expressions IIFE | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Immediately Invoked Function Expressions IIFE | chai aur #javascript by Chai aur Code 162,864 views 1 year ago 7 minutes, 18 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=GAIbn16Iytc",
+        "thumbnail": "https://i.ytimg.com/vi/GAIbn16Iytc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUz0OLTpL5H5WhVl9152bEKI7qEQ"
+    },
+    {
+        "id": 25,
+        "title": {
+            "runs": [
+                {
+                    "text": "How does javascript execute code + call stack | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "How does javascript execute code + call stack | chai aur #javascript by Chai aur Code 238,618 views 1 year ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ByhtOgF6uYM",
+        "thumbnail": "https://i.ytimg.com/vi/ByhtOgF6uYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOg_re7GbYWEaxjxCsZuFqPtwwUg"
+    },
+    {
+        "id": 26,
+        "title": {
+            "runs": [
+                {
+                    "text": "Control flow in javascript in 1 shot | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Control flow in javascript in 1 shot | chai aur #javascript by Chai aur Code 208,255 views 1 year ago 52 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=0P_YvC6Gg0c",
+        "thumbnail": "https://i.ytimg.com/vi/0P_YvC6Gg0c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTBczvnyrlshcrCL_w8PcIfuC88A"
+    },
+    {
+        "id": 27,
+        "title": {
+            "runs": [
+                {
+                    "text": "For loop with break and continue in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "For loop with break and continue in javascript | chai aur #javascript by Chai aur Code 167,110 views 1 year ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Y1cpFsXrEgY",
+        "thumbnail": "https://i.ytimg.com/vi/Y1cpFsXrEgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADdp6LdHMWEtk8N88ACaHMp15LIA"
+    },
+    {
+        "id": 28,
+        "title": {
+            "runs": [
+                {
+                    "text": "While and do while loop in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "While and do while loop in Javascript | chai aur #javascript by Chai aur Code 112,679 views 1 year ago 10 minutes, 19 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=w3Q55-l47P0",
+        "thumbnail": "https://i.ytimg.com/vi/w3Q55-l47P0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2hqLFQqfemkKFlznOj-QGVybGUA"
+    },
+    {
+        "id": 29,
+        "title": {
+            "runs": [
+                {
+                    "text": "High Order Array loops | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "High Order Array loops | chai aur #javascript by Chai aur Code 201,648 views 1 year ago 34 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=M0YImBHQsWU",
+        "thumbnail": "https://i.ytimg.com/vi/M0YImBHQsWU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLZzx53tAUEc8Erqg4I-03sTSHJA"
+    },
+    {
+        "id": 30,
+        "title": {
+            "runs": [
+                {
+                    "text": "Filter map and reduce in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Filter map and reduce in javascript | chai aur #javascript by Chai aur Code 278,380 views 1 year ago 38 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9MfwYoWKKVE",
+        "thumbnail": "https://i.ytimg.com/vi/9MfwYoWKKVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7FBm7VWr7zgiffd6r99ux4mLEfg"
+    },
+    {
+        "id": 31,
+        "title": {
+            "runs": [
+                {
+                    "text": "DOM introduction in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "DOM introduction in javascript | chai aur #javascript by Chai aur Code 294,066 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=DcjNkHtDj8A",
+        "thumbnail": "https://i.ytimg.com/vi/DcjNkHtDj8A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzgwPFp0ym9GUexkQRKF3f2ewA7w"
+    },
+    {
+        "id": 32,
+        "title": {
+            "runs": [
+                {
+                    "text": "All DOM selectors NodeList and HTMLCollection | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "All DOM selectors NodeList and HTMLCollection | chai aur #javascript by Chai aur Code 287,928 views 1 year ago 41 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Ab6K57WjWTE",
+        "thumbnail": "https://i.ytimg.com/vi/Ab6K57WjWTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3gTf3NpmgEjRMuL-VNfQ1r8PYfQ"
+    },
+    {
+        "id": 33,
+        "title": {
+            "runs": [
+                {
+                    "text": "How to create a new element in DOM | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "How to create a new element in DOM | chai aur #javascript by Chai aur Code 209,017 views 1 year ago 27 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=xAvTgCsCHLs",
+        "thumbnail": "https://i.ytimg.com/vi/xAvTgCsCHLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUt0d3493wvmYo2BhOzRopcD2EAA"
+    },
+    {
+        "id": 34,
+        "title": {
+            "runs": [
+                {
+                    "text": "Edit and remove elements in DOM | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Edit and remove elements in DOM | chai aur #javascript by Chai aur Code 161,566 views 1 year ago 20 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=VQlY-X_eeTE",
+        "thumbnail": "https://i.ytimg.com/vi/VQlY-X_eeTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7z4bm93omKIt2pvUhPmPNDCp19g"
+    },
+    {
+        "id": 35,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lets build 4 javascript projects for beginners | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lets build 4 javascript projects for beginners | chai aur #javascript by Chai aur Code 532,252 views 1 year ago 1 hour, 34 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=EGqHVjU-fas",
+        "thumbnail": "https://i.ytimg.com/vi/EGqHVjU-fas/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3Es4Law8DuLP913Xgv0AGV_f3xw"
+    },
+    {
+        "id": 36,
+        "title": {
+            "runs": [
+                {
+                    "text": "Events in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Events in Javascript | chai aur #javascript by Chai aur Code 288,334 views 1 year ago 36 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=_ALUMTa8BAE",
+        "thumbnail": "https://i.ytimg.com/vi/_ALUMTa8BAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyt5gfhqKR6XGNrJdl21UjV7qvRg"
+    },
+    {
+        "id": 37,
+        "title": {
+            "runs": [
+                {
+                    "text": "Async Javascript fundamentals | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Async Javascript fundamentals | chai aur #javascript by Chai aur Code 252,875 views 1 year ago 19 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=zgt5oTD3rRc",
+        "thumbnail": "https://i.ytimg.com/vi/zgt5oTD3rRc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdJB-6v2t_Lfmj6EnqBSl2pvluSw"
+    },
+    {
+        "id": 38,
+        "title": {
+            "runs": [
+                {
+                    "text": "2 projects with Async JS | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "2 projects with Async JS | chai aur #javascript by Chai aur Code 247,947 views 1 year ago 41 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=efrW5-IYoCU",
+        "thumbnail": "https://i.ytimg.com/vi/efrW5-IYoCU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcuttcaQcWV6uI_zxMxxrgvvLkg"
+    },
+    {
+        "id": 39,
+        "title": {
+            "runs": [
+                {
+                    "text": "API request and V8 engine | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "API request and V8 engine | chai aur #javascript by Chai aur Code 189,848 views 1 year ago 30 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=pDPAcYdSse8",
+        "thumbnail": "https://i.ytimg.com/vi/pDPAcYdSse8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWlXfj3Cj3vnk-_JsmflJMJbnCXQ"
+    },
+    {
+        "id": 40,
+        "title": {
+            "runs": [
+                {
+                    "text": "Promise in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Promise in javascript | chai aur #javascript by Chai aur Code 355,664 views 1 year ago 50 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=NJwRQgsu1Q8",
+        "thumbnail": "https://i.ytimg.com/vi/NJwRQgsu1Q8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlj6ve_0JNeu-YqD3LvG-6x8loqQ"
+    },
+    {
+        "id": 41,
+        "title": {
+            "runs": [
+                {
+                    "text": "Now you know fetch in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Now you know fetch in javascript | chai aur #javascript by Chai aur Code 195,565 views 1 year ago 18 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Rive84an6Lc",
+        "thumbnail": "https://i.ytimg.com/vi/Rive84an6Lc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvLVwcboVMh5uX4D07jz_DmznpHQ"
+    },
+    {
+        "id": 42,
+        "title": {
+            "runs": [
+                {
+                    "text": "Object Oriented in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Object Oriented in Javascript | chai aur #javascript by Chai aur Code 199,424 views 1 year ago 32 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=pN-Qmv4zBcI",
+        "thumbnail": "https://i.ytimg.com/vi/pN-Qmv4zBcI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD89dGQL7-L0lRX2fBdD3_H0L-Dqw"
+    },
+    {
+        "id": 43,
+        "title": {
+            "runs": [
+                {
+                    "text": "Magic of Prototype in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Magic of Prototype in javascript | chai aur #javascript by Chai aur Code 172,455 views 1 year ago 48 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=uMI5cNeHTOc",
+        "thumbnail": "https://i.ytimg.com/vi/uMI5cNeHTOc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIoik2xLsACKXPBsS5UR0lbjNqxg"
+    },
+    {
+        "id": 44,
+        "title": {
+            "runs": [
+                {
+                    "text": "Call and this in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Call and this in javascript | chai aur #javascript by Chai aur Code 90,333 views 1 year ago 13 minutes, 6 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=-owpuf4lbyU",
+        "thumbnail": "https://i.ytimg.com/vi/-owpuf4lbyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlIQNauVc53FiCKlLmC2QDMXOQlg"
+    },
+    {
+        "id": 45,
+        "title": {
+            "runs": [
+                {
+                    "text": "Class constructor and static | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Class constructor and static | chai aur #javascript by Chai aur Code 112,603 views 1 year ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=u6mVHkMpoMk",
+        "thumbnail": "https://i.ytimg.com/vi/u6mVHkMpoMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIizO8IUb2-tDWaztm-x1Xmvz5hQ"
+    },
+    {
+        "id": 46,
+        "title": {
+            "runs": [
+                {
+                    "text": "Bind in javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Bind in javascript | chai aur #javascript by Chai aur Code 75,471 views 1 year ago 11 minutes, 39 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=75dMiOY_4ac",
+        "thumbnail": "https://i.ytimg.com/vi/75dMiOY_4ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZf57nTK3UVOwCIoa_U1b35Pvs1g"
+    },
+    {
+        "id": 47,
+        "title": {
+            "runs": [
+                {
+                    "text": "Now you know Objects in Javascript | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Now you know Objects in Javascript | chai aur #javascript by Chai aur Code 63,775 views 1 year ago 19 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=jss2rL9kv6s",
+        "thumbnail": "https://i.ytimg.com/vi/jss2rL9kv6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh-03NHWkPGpgRk9R0j7QeTrNYMg"
+    },
+    {
+        "id": 48,
+        "title": {
+            "runs": [
+                {
+                    "text": "Getter Setter and Stack Overflow | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Getter Setter and Stack Overflow | chai aur #javascript by Chai aur Code 68,750 views 1 year ago 31 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=t6vLhF-iSxQ",
+        "thumbnail": "https://i.ytimg.com/vi/t6vLhF-iSxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-QrKiZ0XGcpN_Uk2ls2seX4f8-A"
+    },
+    {
+        "id": 49,
+        "title": {
+            "runs": [
+                {
+                    "text": "Lexical scoping and Closure | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Lexical scoping and Closure | chai aur #javascript by Chai aur Code 124,473 views 1 year ago 26 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=VaH09NXQZ58",
+        "thumbnail": "https://i.ytimg.com/vi/VaH09NXQZ58/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtxIoJoAygnWmL_3zh7tMqUFv9lw"
+    },
+    {
+        "id": 50,
+        "title": {
+            "runs": [
+                {
+                    "text": "Javascript ends with a story | chai aur #javascript"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Javascript ends with a story | chai aur #javascript by Chai aur Code 73,472 views 1 year ago 7 minutes, 8 seconds"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=z9PINyinqwo",
+        "thumbnail": "https://i.ytimg.com/vi/z9PINyinqwo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwv3OXopUSPGbPRkbJpTJ609-JIg"
+    },
+    {
+        "id": 51,
+        "title": {
+            "runs": [
+                {
+                    "text": "You don't know array in javascript | PACKED vs HOLEY | JSVU | V8-debug"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "You don't know array in javascript | PACKED vs HOLEY | JSVU | V8-debug by Chai aur Code 78,842 views 1 year ago 44 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=ZRS485LxX0s",
+        "thumbnail": "https://i.ytimg.com/vi/ZRS485LxX0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATsOuqZreIyhcUG_PaUdBliD3Dtg"
     }
-  ],
-  "id": 1740737840036,
-  "created_at": "2025-02-28T10:17:20.036Z"
-}
+]
