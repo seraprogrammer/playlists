@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master GSAP Animations: Basics | Complete GSAP Course - Part 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master GSAP Animations: Basics | Complete GSAP Course - Part 1 by Sheryians Coding School 202,080 views 10 months ago 53 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9C03V1dXxOU",
+        "thumbnail": "https://i.ytimg.com/vi/9C03V1dXxOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWmg3hK9i3iO3GTPLUqbsyp0rrHg"
+    },
+    {
+        "id": 2,
+        "title": {
+            "runs": [
+                {
+                    "text": "Master ScrollTrigger with GSAP | Complete GSAP Course - Part 2"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Master ScrollTrigger with GSAP | Complete GSAP Course - Part 2 by Sheryians Coding School 88,476 views 10 months ago 44 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=aezzM70lWDo",
+        "thumbnail": "https://i.ytimg.com/vi/aezzM70lWDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3tB6ei2ZE5EnCoZ3yAIKweifRXA"
+    },
+    {
+        "id": 3,
+        "title": {
+            "runs": [
+                {
+                    "text": "Create Stunning SVG Animations with GSAP | Complete GSAP Course - Part 3"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Create Stunning SVG Animations with GSAP | Complete GSAP Course - Part 3 by Sheryians Coding School 57,392 views 10 months ago 43 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=asdNfZfHT34",
+        "thumbnail": "https://i.ytimg.com/vi/asdNfZfHT34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDQ1gjy8f7Beb0SBPBN8nF0w4zPw"
+    },
+    {
+        "id": 4,
+        "title": {
+            "runs": [
+                {
+                    "text": "Build a Custom Cursor Animation with GSAP | Complete GSAP Course - Project 1"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Build a Custom Cursor Animation with GSAP | Complete GSAP Course - Project 1 by Sheryians Coding School 51,473 views 10 months ago 28 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Ziv1G994SrM",
+        "thumbnail": "https://i.ytimg.com/vi/Ziv1G994SrM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjIu8TXTFbfV7ccu2XOuTY4u7zYQ"
+    },
+    {
+        "id": 5,
+        "title": {
+            "runs": [
+                {
+                    "text": "Create Timeline Animation with GSAP | Complete GSAP Course - Project 2"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Create Timeline Animation with GSAP | Complete GSAP Course - Project 2 by Sheryians Coding School 40,559 views 9 months ago 24 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=dm3QmM9c4xU",
+        "thumbnail": "https://i.ytimg.com/vi/dm3QmM9c4xU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoul1b7QBd4RjaxyjaasWT0hUqYA"
+    },
+    {
+        "id": 6,
+        "title": {
+            "runs": [
+                {
+                    "text": "Create Stunning Text Animations with GSAP | Complete GSAP Course - Project 3"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Create Stunning Text Animations with GSAP | Complete GSAP Course - Project 3 by Sheryians Coding School 37,993 views 9 months ago 36 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=0tNwWuKRjnk",
+        "thumbnail": "https://i.ytimg.com/vi/0tNwWuKRjnk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMXI6ol7zLL4ReYiVVD1_6UDYfQA"
+    },
+    {
+        "id": 7,
+        "title": {
+            "runs": [
+                {
+                    "text": "Create Scrolling Text Animations with GSAP | Complete GSAP Course - Project 4"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Create Scrolling Text Animations with GSAP | Complete GSAP Course - Project 4 by Sheryians Coding School 34,312 views 9 months ago 31 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=tvNKFWkWpho",
+        "thumbnail": "https://i.ytimg.com/vi/tvNKFWkWpho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5oYtFEYOkz8NMFm533i7mhH9Gww"
+    },
+    {
+        "id": 8,
+        "title": {
+            "runs": [
+                {
+                    "text": "Build an Animated Website with GSAP | Complete GSAP Course - Project 5"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Build an Animated Website with GSAP | Complete GSAP Course - Project 5 by Sheryians Coding School 49,337 views 9 months ago 1 hour, 14 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Zd8a_yC-_xQ",
+        "thumbnail": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCMghRxmtu4rShyFDxSDoeXWrkUQ"
+    },
+    {
+        "id": 9,
+        "title": {
+            "runs": [
+                {
+                    "text": "GSAP Animation with ReactJS: A Complete Guide | Complete GSAP Course"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "GSAP Animation with ReactJS: A Complete Guide | Complete GSAP Course by Sheryians Coding School 56,579 views 9 months ago 53 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=UkdJsvosc6c",
+        "thumbnail": "https://i.ytimg.com/vi/UkdJsvosc6c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHzwrGLTvRXyxcBD-QYrMNHE3Big"
+    },
+    {
+        "id": 10,
+        "title": {
+            "runs": [
+                {
+                    "text": "The FASTEST Way to Learn GSAP Animation from Scratch!"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "The FASTEST Way to Learn GSAP Animation from Scratch! by Sheryians Coding School 103,369 views 9 months ago 5 hours, 49 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=Sc64ZiW2xPA",
+        "thumbnail": "https://i.ytimg.com/vi/Sc64ZiW2xPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQFjL9j5F0KvsDagfDKUc3eaerKA"
+    },
+    {
+        "id": 11,
+        "title": {
+            "runs": [
+                {
+                    "text": "[PROCESS BRAKDOWN] React Three Fiber | Cylinder Work Showcase"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "[PROCESS BRAKDOWN] React Three Fiber | Cylinder Work Showcase by Sheryians Coding School 59,773 views 6 months ago 32 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=9qQ8WxF-h8o",
+        "thumbnail": "https://i.ytimg.com/vi/9qQ8WxF-h8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMMb9hMMjfJyVhL_ifCTYi7aGdvg"
+    },
+    {
+        "id": 12,
+        "title": {
+            "runs": [
+                {
+                    "text": "3D React.js Apple Mac Book Pro Landing Page"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "3D React.js Apple Mac Book Pro Landing Page by Sheryians Coding School 51,113 views 5 months ago 39 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=yItOSReV_f0",
+        "thumbnail": "https://i.ytimg.com/vi/yItOSReV_f0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQJXapzQAZ1_UVk0UK0pozWhsFnw"
+    },
+    {
+        "id": 13,
+        "title": {
+            "runs": [
+                {
+                    "text": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)"
+                }
+            ],
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced) by Sheryians Coding School 36,060 views 3 weeks ago 1 hour, 11 minutes"
+                }
+            }
+        },
+        "videoLink": "https://www.youtube.com/watch?v=JALCoY9MQg8",
+        "thumbnail": "https://i.ytimg.com/vi/JALCoY9MQg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5iDnLqwLLp6LrlGw-ytyatmx-fQ"
+    }
+]
